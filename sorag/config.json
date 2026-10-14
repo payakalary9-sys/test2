@@ -1,0 +1,5 @@
+{
+  "adminUser": "admin",
+  "adminPass": "12345",
+  "port": 3000
+}
